@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 90" fill="none" className="w-full h-auto">
+  <defs>
+    <filter id="juntia-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#ffffff" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- ── Estrellas / Sparkles sobre la letra 'a' ── -->
+  <g fill="#FFFFFF" filter="url(#juntia-glow)">
+    <!-- Estrella grande de 4 puntas -->
+    <path d="M 244 8 C 244 14 238 14 238 14 C 238 14 244 14 244 20 C 244 14 250 14 250 14 C 250 14 244 14 244 8 Z" />
+    <!-- Estrella mediana derecha -->
+    <path d="M 258 18 C 258 22 254 22 254 22 C 254 22 258 22 258 26 C 258 22 262 22 262 22 C 262 22 258 22 258 18 Z" />
+    <!-- Círculo brillante izquierdo -->
+    <circle cx="230" cy="20" r="3.5" />
+  </g>
+
+  <!-- ── Tipografía Principal con trazo redondeado y fluido ── -->
+  <g stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Letra J -->
+    <path d="M 44 22 L 44 58 C 44 71 30 74 19 70 C 12 66 10 60 10 57" />
+
+    <!-- Letra u (trazo continuo y fluido sin solapamientos) -->
+    <path d="M 70 34 L 70 56 C 70 67 92 67 92 56 L 92 34" />
+    <path d="M 92 50 L 92 70" />
+
+    <!-- Letra n -->
+    <path d="M 115 70 L 115 34" />
+    <path d="M 115 46 C 120 34 142 34 142 46 L 142 70" />
+
+    <!-- Letra t -->
+    <path d="M 166 18 L 166 60 C 166 70 176 69 180 66" />
+    <path d="M 155 34 L 177 34" />
+
+    <!-- Letra i -->
+    <path d="M 202 34 L 202 70" />
+  </g>
+
+  <!-- Punto de la letra i -->
+  <circle cx="202" cy="20" r="5" fill="#FFFFFF" />
+
+  <!-- ── Letra a (Cuerpo exterior e icono interior) ── -->
+  <!-- Círculo exterior y barra de la 'a' -->
+  <circle cx="238" cy="52" r="18" stroke="#FFFFFF" stroke-width="9" fill="none" />
+  <path d="M 256 34 L 256 70" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" />
+
+  <!-- Ciudad / Skyline dentro del círculo de la 'a' -->
+  <g>
+    <!-- Arco de fondo / Sol detrás de los edificios -->
+    <path d="M 228 55 A 10 10 0 0 1 248 55" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6" />
+
+    <!-- Edificio Izquierda -->
+    <rect x="230" y="52" width="3" height="9" rx="0.5" fill="#FFFFFF" />
+    <rect x="231" y="53.5" width="1" height="1.2" fill="#0D0D14" />
+    <rect x="231" y="56" width="1" height="1.2" fill="#0D0D14" />
+
+    <!-- Edificio Centro (Más alto con antena) -->
+    <line x1="237.5" y1="45" x2="237.5" y2="47" stroke="#FFFFFF" stroke-width="1" />
+    <rect x="235.5" y="47" width="4" height="14" rx="0.5" fill="#FFFFFF" />
+    <rect x="236.5" y="49" width="0.9" height="1.2" fill="#0D0D14" />
+    <rect x="238" y="49" width="0.9" height="1.2" fill="#0D0D14" />
+    <rect x="236.5" y="51.5" width="0.9" height="1.2" fill="#0D0D14" />
+    <rect x="238" y="51.5" width="0.9" height="1.2" fill="#0D0D14" />
+    <rect x="236.5" y="54" width="0.9" height="1.2" fill="#0D0D14" />
+    <rect x="238" y="54" width="0.9" height="1.2" fill="#0D0D14" />
+
+    <!-- Edificio Derecha -->
+    <rect x="241.5" y="50" width="3.5" height="11" rx="0.5" fill="#FFFFFF" />
+    <rect x="242.5" y="52" width="1.2" height="1.2" fill="#0D0D14" />
+    <rect x="242.5" y="54.5" width="1.2" height="1.2" fill="#0D0D14" />
+
+    <!-- Edificio Bajo Extremo -->
+    <rect x="246" y="55" width="2" height="6" rx="0.5" fill="#FFFFFF" />
+  </g>
+</svg>
