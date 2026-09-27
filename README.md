@@ -24,7 +24,8 @@ Demo en vivo
 
 ## Capturas
 
-Página principal
+
+## Página principal
 
 
 <img width="1318" height="939" alt="Captura de pantalla 2026-09-27 053819" src="https://github.com/user-attachments/assets/ff5cfaef-d336-4431-b06a-232870623e81" />
