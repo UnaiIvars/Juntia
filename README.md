@@ -58,7 +58,7 @@ JuntIA utiliza una arquitectura web basada en **PHP**, con **MySQL** como sistem
 
 ## Demo
 
-[Ver JuntIA](https://juntia-xi.vercel.app)
+[Ver Juntia](https://juntia-xi.vercel.app)
 
 La aplicación está disponible online para explorar sus principales funcionalidades.
 
