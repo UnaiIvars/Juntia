@@ -52,7 +52,7 @@ JuntIA utiliza una arquitectura web basada en **PHP**, con **MySQL** como sistem
 ┌─────────────────────┐
 │      Database       │
 │                     │
-│       MySQL         │
+│       Supabase      │
 └─────────────────────┘
 ```
 
