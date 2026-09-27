@@ -14,10 +14,10 @@ Demo en vivo
 - HTML5
 - CSS3
 
-## Funcionalidades
-Registro e inicio de sesión de usuarios.
-Reserva de viajes.
-Gestión de reservas.
-Panel de administración.
-CRUD de destinos y usuarios.
-Base de datos MySQL con relaciones.
+Funcionalidades
+- Registro e inicio de sesión.
+- Gestión de usuarios.
+- Reserva de viajes.
+- CRUD de destinos y reservas.
+- Panel de administración.
+- Base de datos relacional en MySQL.
